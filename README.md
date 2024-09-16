@@ -1,6 +1,6 @@
 # Terms-of-Service
-Last Updated: 16.09.2024<br>
-Effective: 16.09.2024
+Last Updated: 17.09.2024<br>
+Effective: 17.09.2024
 
 **Definitions**<br>
 - “Tizo,” “we,” “us,” and “our”: These terms refer to Tizo, the entity providing the services described in these Terms, as well as its subsidiaries and related companies.
