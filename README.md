@@ -1,6 +1,6 @@
 # Terms-of-Service
-Last Updated: 17.09.2024<br>
-Effective: 17.09.2024
+Last Updated: 04.07.2026<br>
+Effective: 04.07.2026
 
 **Definitions**<br>
 - “Tizo,” “we,” “us,” and “our”: These terms refer to Tizo, the entity providing the services described in these Terms, as well as its subsidiaries and related companies.
@@ -11,7 +11,7 @@ Additional Definitions: Other terms used in these Terms of Service may be define
 
 **Introduction**<br>
 Welcome to Tizo’s services. By accessing or using our services, including but not limited to:
-- Discord Bots: Leveling (ID: 1278816908459769876)<br>
+- Discord Bots: Leveling (ID: 1278816908459769876), Security (ID: 1521633203130208436)<br>
 
 you agree to be bound by these Terms of Service ("Terms"). These Terms govern your access to and use of our services, so please read them carefully.
 
